@@ -5,7 +5,7 @@ on:
 
 env:
   SERVER_HOST: localhost
-  SERVER_USER: root
+  SERVER_USER: dudos
   SERVER_PATH: C:\Users\dudos\PycharmProjects\proverka
 
 jobs:
