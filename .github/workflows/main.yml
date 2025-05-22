@@ -4,9 +4,9 @@ on:
   workflow_dispatch
 
 env:
-  SERVER_HOST: 89.108.77.14
+  SERVER_HOST: localhost
   SERVER_USER: root
-  SERVER_PATH: /root/github-test
+  SERVER_PATH: C:\Users\dudos\PycharmProjects\proverka
 
 jobs:
 
